@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+#patternsList {
+  text-align: left;
+  margin-top: 10px;
+}
