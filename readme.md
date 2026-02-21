@@ -89,25 +89,24 @@ chrome://extensions
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](screenshots/scan-amazon.png)
-*Detector panel showing score 15 (Moderate) on Amazon.in deals page — "Limited time deal" badges highlighted in orange*
+https://drive.google.com/file/d/1ZEsqzXfBVtf2fQvP-jT7_spLOvSV226t/view?usp=sharing
+*Detector panel showing score 15 (Moderate) on flipkart.com page — "Only 3 left" badges highlighted in orange*
 
-![Screenshot2](screenshots/database-dashboard.png)
-*Database dashboard showing tracked sites, risk scores, pattern breakdown bar charts, and recent scan history*
+https://drive.google.com/file/d/1NyVOv0IbhDLl61k1V7QbDsyJgp9GZ3bJ/view?usp=sharing
+*Database dashboard showing 75(very high risk) possibility of manipulation on scarcity.
 
-![Screenshot3](screenshots/popup.png)
-*Extension popup showing current page risk score, finding count, and quick access to the database*
+https://drive.google.com/file/d/1acl9QBiRTAsyYWywDU764CjustjPZsep/view?usp=sharing
+**Detector panel showing score 15 (Moderate) on naptol.com page i.e dark patterns based on manipulation on the prize.
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
 *User visits page → content.js injected → 13 detectors run → findings scored and deduplicated → panel rendered + data saved to chrome.storage → database.html reads storage for cross-site tracking*
+
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
 *Click extension icon → popup.js queries active tab + storage → user clicks Scan Page → scripting API injects content.js → DOM analysed → panel overlaid on page → findings stored → database auto-updates*
 
 ---
@@ -158,8 +157,6 @@ https://youtu.be/V0Nnt17v7_Q
 
 *Demonstrates scanning amazon.in/deals — extension detects "Limited time deal" urgency badges, MRP strikethrough prices, and "Subscribe & Save" roach motel pattern. Shows database dashboard updating in real time.*
 
-### Additional Demos
-[GitHub repo link] | [Chrome Extension ZIP download]
 
 ---
 
