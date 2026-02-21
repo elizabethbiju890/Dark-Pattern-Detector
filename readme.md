@@ -12,9 +12,6 @@
 - Member 1: Alena Thankam Ullas - Mar Baselios College of Engineering
 - Member 2: Elizabeth Biju - Mar Baselios College of Engineering
 
-### Hosted Project Link
-[Add your GitHub Pages / hosted link here]
-
 ### Project Description
 A Chrome browser extension that automatically scans any webpage and detects manipulative UX design patterns (dark patterns) used by websites to deceive or pressure users. It highlights flagged elements directly on the page with color-coded outlines and stores findings in a persistent cross-site database dashboard.
 
