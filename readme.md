@@ -84,7 +84,7 @@ chrome://extensions
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots 
 
 https://drive.google.com/file/d/1ZEsqzXfBVtf2fQvP-jT7_spLOvSV226t/view?usp=sharing
 *Detector panel showing score 15 (Moderate) on flipkart.com page — "Only 3 left" badges highlighted in orange*
