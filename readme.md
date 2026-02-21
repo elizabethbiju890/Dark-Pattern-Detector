@@ -106,6 +106,8 @@ https://drive.google.com/file/d/1acl9QBiRTAsyYWywDU764CjustjPZsep/view?usp=shari
 
 *Click extension icon → popup.js queries active tab + storage → user clicks Scan Page → scripting API injects content.js → DOM analysed → panel overlaid on page → findings stored → database auto-updates*
 
+https://drive.google.com/file/d/1t8qf308zgPYYThgXXp2Ui1b4mV3u_tpo/view?usp=sharing
+
 ---
 
 ## Detection Engine — All 13 Rules
